@@ -1,0 +1,18 @@
+{
+  "appSelected": {
+    "appId": "5765880207854996979",
+    "appName": "测试云函数",
+    "deviceTypes": [
+      {
+        "deviceType": 4
+      }
+    ],
+    "enableSites": "CN",
+    "installationFree": 0,
+    "packageType": 7,
+    "projectId": "388421841222343065",
+    "projectName": "端云一体化测试",
+    "siteId": "CN"
+  },
+  "teamId": "30086000799136039"
+}
